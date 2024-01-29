@@ -30,4 +30,4 @@ public class Animal{
         System.out.println("животное по имени: " + name + " подпрыгнуло");
     }
 }
-}
+
